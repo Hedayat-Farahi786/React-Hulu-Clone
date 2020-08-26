@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  background-color: black;
+  padding: 20px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header > img {
+  object-fit: contain;
+  height: 80px;
+}

@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  background-color: black;
+  padding: 20px;
+  align-items: center;
+  justify-content: space-between;
+  overflow-x: scroll;
+}
+
+.header > img {
+  object-fit: contain;
+  height: 80px;
+}

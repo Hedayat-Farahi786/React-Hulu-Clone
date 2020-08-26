@@ -1,0 +1,20 @@
+.header {
+  display: flex;
+  background-color: black;
+  padding: 20px;
+  align-items: center;
+  justify-content: space-between;
+  overflow-x: scroll;
+  color: white;
+}
+
+.headerIcons {
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+
+.header > img {
+  object-fit: contain;
+  height: 80px;
+}
